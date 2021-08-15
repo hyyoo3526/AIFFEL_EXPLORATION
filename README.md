@@ -12,8 +12,8 @@ AIFFEL EXPLORATION 코드 제출을 위해 만들었습니다.
 |06|나의 첫 번째 캐글 경진대회, 무작정 따라해보기|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_06)|
 |07|영화리뷰 텍스트 감성분석하기|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_07)|
 |08|인물사진을 만들어 보자|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_08)|
-|09|아이유팬이 좋아할 만한 다른 아티스트 찾기|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION)|
-|10|뉴스 요약봇 만들기|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION)|
+|09|아이유팬이 좋아할 만한 다른 아티스트 찾기|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_09)|
+|10|뉴스 요약봇 만들기|[➡]https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_10)|
 |11|-|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION)|
 |12|-|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION)|
 |13|-|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION)|
