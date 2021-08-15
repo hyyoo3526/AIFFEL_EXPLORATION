@@ -14,7 +14,7 @@ AIFFEL EXPLORATION 코드 제출을 위해 만들었습니다.
 |08|인물사진을 만들어 보자|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_08)|
 |09|아이유팬이 좋아할 만한 다른 아티스트 찾기|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_09)|
 |10|뉴스 요약봇 만들기|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_10)|
-|11|-|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION)|
-|12|-|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION)|
-|13|-|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION)|
+|11|폐렴아 기다려라!|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_11)|
+|12|다음에 볼 영화 예측하기|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_12)|
+|13|인공지능으로 세상에 없던 새로운 패션 만들기|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_13)|
 
