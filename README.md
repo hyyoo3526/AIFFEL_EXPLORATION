@@ -17,4 +17,9 @@ AIFFEL EXPLORATION 코드 제출을 위해 만들었습니다.
 |11|폐렴아 기다려라!|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_11)|
 |12|다음에 볼 영화 예측하기|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_12)|
 |13|인공지능으로 세상에 없던 새로운 패션 만들기|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_13)|
-
+|14|어제 오른 내 주식, 과연 내일은?|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_14)|
+|15|트랜스포머로 만드는 대화형 챗봇|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_15)|
+|16|  |[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_16)|
+|17|  |[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_17)|
+|18|  |[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_18)|
+|19|  |[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_19)|
