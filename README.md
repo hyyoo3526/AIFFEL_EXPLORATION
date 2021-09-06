@@ -19,7 +19,7 @@ AIFFEL EXPLORATION 코드 제출을 위해 만들었습니다.
 |13|인공지능으로 세상에 없던 새로운 패션 만들기|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_13)|
 |14|어제 오른 내 주식, 과연 내일은?|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_14)|
 |15|트랜스포머로 만드는 대화형 챗봇|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_15)|
-|16|  |[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_16)|
-|17|  |[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_17)|
-|18|  |[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_18)|
-|19|  |[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_19)|
+|16|흐린 사진을 선명하게|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_16)|
+|17|인간보다 퀴즈를 잘푸는 인공지능|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_17)|
+|18|문자를 읽을 수 있는 딥러닝|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_18)|
+|19|난 스케치를 할테니 너는 채색을 하거라|[➡](https://github.com/hyyoo3526/AIFFEL_EXPLORATION/tree/main/EXPLORATION_19)|
